@@ -16,6 +16,7 @@ const chains = [
   { href: "/aptos", label: "Aptos", color: "#00D4AA" },
   { href: "/verkle", label: "Verkle", color: "#00FFB3" },
   { href: "/compare", label: "Compare All", color: "#ffffff" },
+  { href: "/deep-compare", label: "Deep Dive", color: "#00FFB3" },
 ];
 
 export default function Navbar() {
