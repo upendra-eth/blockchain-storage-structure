@@ -2,6 +2,10 @@
 
 An interactive educational platform teaching how different blockchains store and verify data under the hood — even though most of them use similar KV databases like LevelDB/RocksDB.
 
+## 🌐 Live Demo
+
+**Open the site**: [Blockchain Storage Explorer](https://upendra-eth.github.io/blockchain-storage-structure/)
+
 ## 🎯 What You'll Learn
 
 | Blockchain | Storage Model | Key Insight |
